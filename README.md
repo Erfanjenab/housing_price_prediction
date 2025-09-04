@@ -102,5 +102,4 @@ If you spot improvements, contributions are welcome! Fork and PR. 👏
 
 ## Acknowledgments 🙌
 - Dataset: Courtesy of scikit-learn and the 1990 U.S. Census.
-- Inspired by "Hands-On Machine Learning with Scikit-Learn" by Aurélien Géron.
 - Built as of September 2024—feel free to star ⭐ and watch for updates!
