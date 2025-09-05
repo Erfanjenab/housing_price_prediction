@@ -425,7 +425,7 @@ rmse = root_mean_squared_error(predictions, housing_labels)
 print(f"RMSE: {rmse}")  # Output: [depends on execution, e.g., ~18000]
 
 r2 = r2_score(y_true=housing_labels, y_pred=predictions)
-print(f"R² Score (scaled by 10): {r2 * 10}")  # Output: [depends on execution, e.g., ~8.5]
+print(f"R² Score (scaled by 10): {r2 * 10}")  # Output: [depends on execution, e.g., ~9.7]
 
 #--------------------------------------------------------------------------------------------------------------------------#
 # Visualization of Results
@@ -447,4 +447,5 @@ plt.show()
 # plt.xlabel("Actual House Value")
 # plt.ylabel("Predicted House Value")
 # plt.savefig("actual_vs_predicted.png")
+
 # plt.show()
